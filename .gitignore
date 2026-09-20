@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+dist_obf/
+*.spec
+settings.json
+data/license_local.json
+
+# سري جداً: قائمة الأكواد الصريحة - لا تُرفع أبداً على أي مستودع أو تُوزَّع
+activation_codes.txt
